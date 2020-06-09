@@ -16,13 +16,7 @@ public class myAppTester {
 	  System.out.print("Reverse of the input number is:");
 	  reverseMethod(n);
 	  System.out.println();
-	  /*
-	   * Git now is on branch b1 
-	   * from now on until switching out of branch b1
-	   * any changes occur here will be tracked in branch b1
-	   * and will not be reflected in any other branch unless b1
-	   * is merged later with that branch 
-	   */
+	  
 	}
 	
 	//This is a method to reverse the number by recursion
