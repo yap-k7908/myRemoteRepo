@@ -16,7 +16,9 @@ public class myAppTester {
 	  System.out.print("Reverse of the input number is:");
 	  reverseMethod(n);
 	  System.out.println();
-	  
+
+	  // add a line below to call your myTestMethod from here  then remove the block comment symbols  
+
 	}
 	
 	//This is a method to reverse the number by recursion
@@ -30,5 +32,16 @@ public class myAppTester {
 	           reverseMethod(num/10);     // recursive call
 	       }
 	   }
+
+
+	   /* 
+	       add your test method in this space then remove the block comment symbols
+	       public static void myTestMethod(...){
+
+            
+
+		   }
+	 
+	   */
 
 }
